@@ -1,0 +1,14 @@
+# IDE
+.idea
+.vscode
+
+# Node
+node_modules
+package-lock.json
+
+# Project
+temp
+tests
+
+# MacOS
+.DS_Store
